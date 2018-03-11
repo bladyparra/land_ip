@@ -1,9 +1,4 @@
-/*--
-	Author: W3Layouts
-	Author URL: http://w3layouts.com
-	License: Creative Commons Attribution 3.0 Unported
-	License URL: http://creativecommons.org/licenses/by/3.0/
---*/
+
 /*-- Reset-Code --*/
 
 body {
@@ -83,7 +78,7 @@ img{
     border-color:transparent;
 }
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
-    color: #fff;
+    color: #ffffff;
     background-color: rgba(8, 8, 8, 0);
 }
 nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
@@ -91,32 +86,32 @@ nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
     background: rgba(25, 25, 25, 0.8);
 }
 .navbar-inverse .navbar-brand {
-    color: #fff;
-	font-size:2em;
-	text-transform:uppercase;
+    color: #ffffff;
+		font-size:2em;
+		text-transform:uppercase;
     font-family: font-family: 'Montserrat', sans-serif;;
 }
 .navbar-inverse .navbar-nav>li>a {
-    color: #FFFFFF;
+    color: #ffffff;
     font-size: 1.5em;
     font-weight: normal;
     font-family: font-family: 'Montserrat', sans-serif;;
 }
 @media (min-width: 768px) {
-	.navbar-wrapper {
-	margin-top: 20px;
-}
-	.navbar-wrapper .container {
-    padding-right: 15px;
-    padding-left: 15px;
-}
+		.navbar-wrapper {
+		margin-top: 20px;
+	}
+		.navbar-wrapper .container {
+	    padding-right: 15px;
+	    padding-left: 15px;
+	}
+		.navbar-wrapper .navbar {
+	    padding-right: 0;
+	    padding-left: 0;
+	}
 	.navbar-wrapper .navbar {
-    padding-right: 0;
-    padding-left: 0;
-}
-.navbar-wrapper .navbar {
-    border-radius: 4px;
-}
+	    border-radius: 4px;
+	}
 }
 
 .banner {
