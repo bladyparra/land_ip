@@ -11,8 +11,3 @@
     }
 
 })(jQuery);
-
-//-- start-smooth-scrolling --//
-
-
-//-- smooth-scrolling-of-move-up --//
