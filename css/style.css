@@ -655,18 +655,18 @@ p.copy-right {
 
 
 
-.about-grid i.fa {
+.about-grid i.fas {
     font-size: 80px;
     line-height: 40px;
     width: 80px;
     height: 80px;
     border-bottom: 2px solid #717171;
 }
-i.fa.fa-th {
+i.fas.fa-th {
     font-size: 55px;
     color: #03A9F4;
 }
-i.fa.fa-file-text {
+i.fas.fa-file-alt {
     font-size: 60px;
     color: #4CAF50;
 }
@@ -674,7 +674,8 @@ i.fa.fa-user {
     font-size: 65px;
     color: #EC407A;
 }
-i.fa.fa-laptop {
+i.fas.fa-laptop {
+	font-size: 60px;
     color: #F44336;
 }
 i.fa.fa-mobile {
@@ -834,7 +835,7 @@ ul.address li ul.agileits-address-text li {
 .modal .about {
     border-top: 1px solid;
 }
-.social-icons i.fa {
+.social-icons i.fab {
     font-size: 17px;
     padding: 9px;
     background: #5a5a5a;
@@ -856,16 +857,16 @@ ul.address li ul.agileits-address-text li {
 .modal a:hover {
     color: #018fa0;
 }
-.modal i.fa.fa-facebook {
+.modal i.fab.fa-facebook {
     background: #3b5998;
 }
-.modal i.fa.fa-linkedin {
+.modal i.fab.fa-linkedin {
     background: #00a0dc;
 }
-.modal i.fa.fa-google-plus {
+.modal i.fab.fa-google-plus {
     background: #dd4b39;
 }
-.modal i.fa.fa-twitter {
+.modal i.fab.fa-twitter {
     background: #1da1f2;
 }
 b, strong {
@@ -980,18 +981,18 @@ span.circles-text {
 		margin: 200px auto 0;
 		text-align: right;
 	}
-	.about-grid i.fa {
+	.about-grid i.fas {
 		font-size: 70px;
 		width: 70px;
 		height: 70px;
 	}
-	i.fa.fa-user {
+	i.fas.fa-user {
 		font-size: 57px;
 	}
 	i.fa.fa-th {
 		font-size: 50px;
 	}
-	i.fa.fa-file-text {
+	i.fas.fa-file-alt {
 		font-size: 50px;
 	}
 	.about-grid h4 {
@@ -1024,15 +1025,15 @@ span.circles-text {
 	.thim-click-to-bottom i {
 		padding: 16px 6px;
 	}
-	.about-grid i.fa {
+	.about-grid i.fas {
 		font-size: 60px;
 		width: 65px;
 		height: 65px;
 	}
-	i.fa.fa-user {
+	i.fas.fa-user {
 		font-size: 50px;
 	}
-	i.fa.fa-th ,i.fa.fa-file-text{
+	i.fas.fa-th ,i.fas.fa-file-alt{
 		font-size: 45px;
 	}
 	.stats-grid {
@@ -1108,12 +1109,12 @@ span.circles-text {
 	}
 }
 @media screen and (max-width: 800px) {
-	.about-grid i.fa ,i.fa.fa-user{
+	.about-grid i.fas ,i.fa.fa-user{
 		font-size: 40px;
 		width: 55px;
 		height: 55px;
 	}
-	i.fa.fa-th, i.fa.fa-file-text {
+	i.fas.fa-th, i.fas.fa-file-alt {
 		font-size: 35px;
 	}
 	.agileits_agile_about_mail input[type="text"], .agileits_agile_about_mail input[type="email"], .agileits_agile_about_mail textarea {
@@ -1173,7 +1174,7 @@ span.circles-text {
 		width: 660px;
 		margin: 5em auto 0;
 	}
-	.social-icons i.fa {
+	.social-icons i.fab {
 		padding: 9px;
 		margin: 15px 2px;
 	}
@@ -1224,7 +1225,7 @@ span.circles-text {
 	.modal-dialog {
 		width: 600px;
 	}
-	.social-icons i.fa {
+	.social-icons i.fab {
 		padding: 8px;
 		margin: 15px 0px;
 	}
@@ -1318,7 +1319,7 @@ span.circles-text {
 	.modal-dialog {
 		width: 530px;
 	}
-	.social-icons i.fa {
+	.social-icons i.fab {
 		font-size: 14px;
 		width: 30px;
 		height: 30px;
